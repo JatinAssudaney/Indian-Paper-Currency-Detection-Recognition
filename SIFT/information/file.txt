@@ -1,0 +1,5 @@
+
+
+This can Pop Up with every note and closes itself after any new note is detected.
+(Implemented only for the variations of Rs 100 but can be done for other notes as well)
+Can write any info about the particular note
